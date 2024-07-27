@@ -1,4 +1,5 @@
-# Social-Media-Sentiment-Analysis
+# Social Media Sentiment Analysis
 
-Social Media has opened a whole new world for people around the globe.People are just a click away from getting huge chunk of information. With information comes people’s opinion and with this comes the positive and negative outlook of people regarding a topic. Sometimes this also results into bullying and passing on hate comments about someone or something.
+<p align = justify>Social media sentiment analysis is a technique used to determine the emotional tone behind a series of words, used to gain an understanding of the attitudes, opinions, and emotions expressed in online mentions. This process involves analyzing data from social media platforms such as Twitter, Facebook, Instagram, and others to gauge public sentiment on various topics, brands, events, or product</p>
 
+<p align = justify> </p>
